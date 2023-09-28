@@ -1,3 +1,11 @@
-# alura-plus
+<p align="center"> <img src="https://github.com/MonicaHillman/aluraplus/blob/aula04/img/Logo.png?raw=true" alt="Logo da alura plus"> </p>
+<p align="center">Um site para divulgação da Alura Plus, uma plataforma de streaming com os conteúdos educacionais da Alura.</p>
 
-Esta obra está licenciada sob CC POR 4.0 
+<hr>
+
+## Tecnologias
+* HTML
+* CSS
+
+## Screenshots
+![Screenshot da tela inicial do Alura Plus](https://imgur.com/nKUf7MK.png)
